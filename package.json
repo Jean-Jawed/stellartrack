@@ -2,6 +2,7 @@
   "name": "stellartrack",
   "private": true,
   "version": "1.0.0",
+  "homepage": "https://jean-jawed.github.io/stellartrack/",
   "type": "module",
   "scripts": {
     "dev": "vite",
