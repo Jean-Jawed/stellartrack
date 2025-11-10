@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "satellites": "Satellites",
+    "asteroids": "Asteroids",
+    "launches": "Launches",
+    "about": "About"
+  },
+  "home": {
+    "title": "StellarTrack",
+    "subtitle": "Real-time space exploration"
+  },
+  "satellites": {
+    "title": "Satellites in orbit",
+    "altitude": "Altitude",
+    "speed": "Speed",
+    "period": "Orbital period",
+    "nextPass": "Next visible pass",
+    "follow": "Follow",
+    "types": {
+      "all": "All",
+      "iss": "ISS",
+      "starlink": "Starlink",
+      "gps": "GPS",
+      "weather": "Weather"
+    }
+  },
+  "asteroids": {
+    "title": "Near-Earth asteroids",
+    "diameter": "Estimated diameter",
+    "distance": "Minimum distance",
+    "speed": "Relative speed",
+    "closeApproach": "Close approach date",
+    "hazardous": "Potentially hazardous",
+    "safe": "Safe"
+  },
+  "launches": {
+    "title": "Upcoming launches",
+    "upcoming": "Next launches",
+    "mission": "Mission",
+    "agency": "Agency",
+    "site": "Launch site",
+    "status": "Status",
+    "confirmed": "Confirmed",
+    "tbd": "To be determined",
+    "countdown": "Countdown"
+  },
+  "about": {
+    "title": "About",
+    "developer": "Developer",
+    "description": "StellarTrack is a real-time space visualization app, created with passion by Jawed.",
+    "technologies": "Technologies used",
+    "apis": "APIs used"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "refresh": "Refresh",
+    "search": "Search",
+    "close": "Close",
+    "dataUpdated": "Data updated",
+    "km": "km",
+    "kmh": "km/h",
+    "kms": "km/s",
+    "meters": "m",
+    "minutes": "min"
+  },
+  "footer": {
+    "by": "By",
+    "copyright": "© 2025 StellarTrack"
+  }
+}

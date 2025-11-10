@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "satellites": "Satellites",
+    "asteroids": "Astéroïdes",
+    "launches": "Lancements",
+    "about": "À propos"
+  },
+  "home": {
+    "title": "StellarTrack",
+    "subtitle": "Exploration spatiale en temps réel"
+  },
+  "satellites": {
+    "title": "Satellites en orbite",
+    "altitude": "Altitude",
+    "speed": "Vitesse",
+    "period": "Période orbitale",
+    "nextPass": "Prochain passage visible",
+    "follow": "Suivre",
+    "types": {
+      "all": "Tous",
+      "iss": "ISS",
+      "starlink": "Starlink",
+      "gps": "GPS",
+      "weather": "Météo"
+    }
+  },
+  "asteroids": {
+    "title": "Astéroïdes proches",
+    "diameter": "Diamètre estimé",
+    "distance": "Distance minimale",
+    "speed": "Vitesse relative",
+    "closeApproach": "Date de passage",
+    "hazardous": "Potentiellement dangereux",
+    "safe": "Sans danger"
+  },
+  "launches": {
+    "title": "Lancements à venir",
+    "upcoming": "Prochains lancements",
+    "mission": "Mission",
+    "agency": "Agence",
+    "site": "Site de lancement",
+    "status": "Statut",
+    "confirmed": "Confirmé",
+    "tbd": "À déterminer",
+    "countdown": "Compte à rebours"
+  },
+  "about": {
+    "title": "À propos",
+    "developer": "Développeur",
+    "description": "StellarTrack est une application de visualisation spatiale en temps réel, créée avec passion par Jawed.",
+    "technologies": "Technologies utilisées",
+    "apis": "APIs utilisées"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "refresh": "Actualiser",
+    "search": "Rechercher",
+    "close": "Fermer",
+    "dataUpdated": "Données actualisées",
+    "km": "km",
+    "kmh": "km/h",
+    "kms": "km/s",
+    "meters": "m",
+    "minutes": "min"
+  },
+  "footer": {
+    "by": "Par",
+    "copyright": "© 2025 StellarTrack"
+  }
+}

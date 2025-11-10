@@ -1,0 +1,40 @@
+@import 'cesium/Build/Cesium/Widgets/widgets.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', sans-serif;
+  background-color: #0a0e27;
+  color: #f8fafc;
+  overflow-x: hidden;
+}
+
+.glass {
+  background: rgba(26, 31, 58, 0.8);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.cesium-viewer .cesium-viewer-bottom {
+  display: none;
+}
+
+.cesium-viewer-toolbar {
+  display: none;
+}
+
+@layer utilities {
+  .text-shadow {
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  }
+}
